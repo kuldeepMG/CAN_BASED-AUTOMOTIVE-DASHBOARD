@@ -1,4 +1,4 @@
-🚗 From Sensors to Dashboard – Developed a CAN-Based Automotive System
+🚗 Developed an Automotive Dashboard Using CAN Protocol and PIC18F4580
 
 
 
